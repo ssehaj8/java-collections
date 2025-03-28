@@ -21,7 +21,6 @@ public class FrequencyElements {
 
 /*
 Enter words:
-sehaj sanya bhawishyakumar
-{bhawishyakumar=1, sanya=1, sehaj=1}
-
+sehaj sehaj sanya bhawishya
+{sanya=1, sehaj=2, bhawishya=1}
  */
