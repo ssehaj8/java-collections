@@ -31,3 +31,12 @@ public class ReverseList {
         scanner.close();
     }
 }
+/*
+Enter the number of elements:
+5
+Enter the elements:
+1 8 6 4 6
+Original List: [1, 8, 6, 4, 6]
+Reversed List: [6, 4, 6, 8, 1]
+
+ */
