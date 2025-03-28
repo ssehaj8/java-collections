@@ -39,22 +39,24 @@ public class InvertMap {
 
 
 /*
-I/P->
 Enter number of key-value pairs:
-3
+4
 Enter key (String):
-A
+S
 Enter value (Integer):
-1
+8
 Enter key (String):
 B
 Enter value (Integer):
-2
+21
 Enter key (String):
-C
+S
 Enter value (Integer):
-1
+26
+Enter key (String):
+G
+Enter value (Integer):
+11
+Inverted Map: {21=[B], 26=[S], 11=[G]}
 
-O/P->
-Inverted Map: {1=[A, C], 2=[B]}
  */
